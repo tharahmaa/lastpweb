@@ -48,6 +48,8 @@
   </script>
   
   <style scoped>
-  /* Component-specific styles */
+    .rounded-full.bg-primary.p-2 {
+      background-color: #8B4513; /* Kode warna coklat muda */
+    }
   </style>
   

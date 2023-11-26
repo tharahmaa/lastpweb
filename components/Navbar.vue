@@ -1,6 +1,6 @@
 <template>
-  <nav :class="{ 'bg-gray': isNavBackgroundVisible }" class="text-white fixed top-0 w-full navbar-shrink" id="mainNav">
-    <div class="container mx-auto flex items-center justify-between p-4">
+  <nav :class="{ 'bg-gray': isNavBackgroundVisible }" class="text-white fixed top-0 w-full navbar-shrink z-50" id="mainNav">
+    <div class="container mx-auto flex items-center justify-between py-2 px-4">
       <button class="lg:hidden text-white" @click="toggleNav">
         Menu
         <i class="fas fa-bars ml-1"></i>

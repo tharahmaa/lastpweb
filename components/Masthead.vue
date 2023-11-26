@@ -35,7 +35,7 @@
   .custom-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #C38154;
+    background-color: #6B240C;
     color: #ffffff; 
     border-radius: 10px; 
     text-decoration: none;

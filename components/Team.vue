@@ -3,7 +3,7 @@
       <div class="container">
         <div class="text-center">
           <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-          <h3 class="section-subheading text-muted">P17 ea</h3>
+          <h3 class="section-subheading text-muted">P17 eaakk</h3>
         </div>
         <div class="row">
           <TeamMember
@@ -18,7 +18,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
             <p class="large text-muted">
-              Iseng-iseng aja sih
+              LAST MODUL YEAY!!
             </p>
           </div>
         </div>
@@ -39,35 +39,20 @@
           {
             id: 1,
             name: "Agas Ananta Wijaya",
-            photo: "/dino.jpg",
-            description: "5027221000",
-            socialLinks: [
-              { label: "Twitter", icon: "fab fa-twitter" },
-              { label: "Facebook", icon: "fab fa-facebook-f" },
-              { label: "LinkedIn", icon: "fab fa-linkedin-in" },
-            ],
+            photo: "/dino1.jpg",
+            description: "5027221004",
           },
           {
             id: 2,
             name: "Sylvia Febrianti",
             photo: "/dino.jpg",
-            description: "5027221000",
-            socialLinks: [
-              { label: "Twitter", icon: "fab fa-twitter" },
-              { label: "Facebook", icon: "fab fa-facebook-f" },
-              { label: "LinkedIn", icon: "fab fa-linkedin-in" },
-            ],
+            description: "5027221019",
           },
           {
             id: 3,
             name: "Atha Rahma Arianti",
-            photo: "/dino.jpg",
-            description: "5027221000",
-            socialLinks: [
-              { label: "Twitter", icon: "fab fa-twitter" },
-              { label: "Facebook", icon: "fab fa-facebook-f" },
-              { label: "LinkedIn", icon: "fab fa-linkedin-in" },
-            ],
+            photo: "/dino2.jpg",
+            description: "5027221030",
           },
         ],
       };
